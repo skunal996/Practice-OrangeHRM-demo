@@ -1,0 +1,12 @@
+[32mINFO    [0m Test_Login:test_Login_Page.py:43 Testcase 'test_login_page' is initiated
+[32mINFO    [0m Test_Login:test_Login_Page.py:45 Opening the browser
+[32mINFO    [0m Test_Login:test_Login_Page.py:49 Fetching the URL
+[32mINFO    [0m Test_Login:test_Login_Page.py:52 Entering the Username
+[32mINFO    [0m Test_Login:test_Login_Page.py:55 Entering the Password
+[32mINFO    [0m Test_Login:test_Login_Page.py:58 Clicking on the login button
+[32mINFO    [0m Test_Login:test_Login_Page.py:62 Clicking on the menu button on top right corner
+[32mINFO    [0m Test_Login:test_Login_Page.py:65 Clicking on the logout button
+[32mINFO    [0m Test_Login:test_Login_Page.py:70 Checking for logout confirmation
+[32mINFO    [0m Test_Login:test_Login_Page.py:72 OrangeHRM logo found. Logout successful
+[32mINFO    [0m Test_Login:test_Login_Page.py:74 Closing the browser
+[32mINFO    [0m Test_Login:test_Login_Page.py:76 Testcase 'test_login_page' is now completed

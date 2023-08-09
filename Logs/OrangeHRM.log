@@ -1,0 +1,19 @@
+2023-08-09 16:15:03,154 : INFO : Test_Login : test_page_title : 14 : Testcase 'test_page_title' is initiated
+2023-08-09 16:15:03,154 : INFO : Test_Login : test_page_title : 16 : Opening the browser
+2023-08-09 16:15:03,155 : INFO : Test_Login : test_page_title : 20 : Fetching the URL
+2023-08-09 16:15:21,108 : INFO : Test_Login : test_page_title : 23 : the Page title is:- OrangeHRM
+2023-08-09 16:15:21,113 : INFO : Test_Login : test_page_title : 25 : Page title found
+2023-08-09 16:15:23,313 : INFO : Test_Login : test_page_title : 28 : Closing the browser
+2023-08-09 16:15:23,506 : INFO : Test_Login : test_page_title : 30 : Testcase 'test_page_title' is now completed
+2023-08-09 16:15:25,922 : INFO : Test_Login : test_login_page : 43 : Testcase 'test_login_page' is initiated
+2023-08-09 16:15:25,922 : INFO : Test_Login : test_login_page : 45 : Opening the browser
+2023-08-09 16:15:25,922 : INFO : Test_Login : test_login_page : 49 : Fetching the URL
+2023-08-09 16:15:34,206 : INFO : Test_Login : test_login_page : 52 : Entering the Username
+2023-08-09 16:15:34,295 : INFO : Test_Login : test_login_page : 55 : Entering the Password
+2023-08-09 16:15:34,396 : INFO : Test_Login : test_login_page : 58 : Clicking on the login button
+2023-08-09 16:15:36,474 : INFO : Test_Login : test_login_page : 62 : Clicking on the menu button on top right corner
+2023-08-09 16:15:38,706 : INFO : Test_Login : test_login_page : 65 : Clicking on the logout button
+2023-08-09 16:15:42,821 : INFO : Test_Login : test_login_page : 70 : Checking for logout confirmation
+2023-08-09 16:15:42,877 : INFO : Test_Login : test_login_page : 72 : OrangeHRM logo found. Logout successful
+2023-08-09 16:15:43,088 : INFO : Test_Login : test_login_page : 74 : Closing the browser
+2023-08-09 16:15:43,309 : INFO : Test_Login : test_login_page : 76 : Testcase 'test_login_page' is now completed

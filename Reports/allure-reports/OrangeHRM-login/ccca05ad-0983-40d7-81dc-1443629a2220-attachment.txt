@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Login:test_Login_Page.py:14 Testcase 'test_page_title' is initiated
+[32mINFO    [0m Test_Login:test_Login_Page.py:16 Opening the browser
+[32mINFO    [0m Test_Login:test_Login_Page.py:20 Fetching the URL
+[32mINFO    [0m Test_Login:test_Login_Page.py:23 the Page title is:- OrangeHRM
+[32mINFO    [0m Test_Login:test_Login_Page.py:25 Page title found
+[32mINFO    [0m Test_Login:test_Login_Page.py:28 Closing the browser
+[32mINFO    [0m Test_Login:test_Login_Page.py:30 Testcase 'test_page_title' is now completed
